@@ -73,7 +73,7 @@ Additionally, a manual model based on `if-else` conditions is implemented to com
    ```
 3. Run the classifier script:
    ```bash
-   python streamlit.py
+   streamlit run streamlit.py
    ```
 
 ## Future Enhancements
